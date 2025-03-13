@@ -1,0 +1,10 @@
+diffusers
+transformers
+torch
+accelerate
+safetensors
+matplotlib
+pillow
+tqdm
+ipywidgets
+xformers
